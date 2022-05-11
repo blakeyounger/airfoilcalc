@@ -1,0 +1,1 @@
+files are here because they shouldn't be included in the neural net training
